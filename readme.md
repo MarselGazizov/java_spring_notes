@@ -2,7 +2,7 @@
 
 ### visit https://start.spring.io/
 
-![spring_init.png](photoes/spring_init.png)
+<img src="photoes/spring_init.png" width="650" alt="10">
 
 ### click **`generate`**
 
